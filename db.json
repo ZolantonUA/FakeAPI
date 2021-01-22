@@ -1,0 +1,22 @@
+{
+    "images": [
+      {
+        "id": 1,
+        "src": "https://i.ibb.co/8xxwKYy/image1.png",
+        "alt": "img1",
+        "url": "http://zolotyhin.zzz.com.ua/"
+      },
+      {
+        "id": 2,
+        "src": "https://i.ibb.co/TT2Kj5k/image2.png",
+        "alt": "img2",
+        "url": "https://zealous-hamilton-965de7.netlify.app/"
+      },
+      {
+        "id": 3,
+        "src": "https://i.ibb.co/TWGgp64/image3.png",
+        "alt": "img3",
+        "url": "http://zolotyhinreact.zzz.com.ua/about/"
+      }
+    ]
+  }
